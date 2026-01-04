@@ -19,7 +19,7 @@ This project is designed specifically with **recruiters and interviewers** in mi
 * **DAX (Data Analysis Expressions)**
 * **Power Query (ETL)**
 * **Data Modeling (Star Schema)**
-* **Excel / CSV Dataset**
+* **CSV Dataset**
 
 ---
 
@@ -29,9 +29,7 @@ This project is designed specifically with **recruiters and interviewers** in mi
 * **Time Period**: 2011 – 2014 (4 Years)
 * **Main Tables**:
 
-  * Orders (Fact Table)
-  * Customers
-  * Products
+  * Main Fact Table
   * Date Table (Custom Calendar)
 
 ---
